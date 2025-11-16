@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="GradeButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">88dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#18BF58</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+</resources>
